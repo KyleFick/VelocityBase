@@ -1,0 +1,15 @@
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseAuthentications\bin\Debug\net8.0\VelocityBaseAuthentications.exe
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseAuthentications\bin\Debug\net8.0\VelocityBaseAuthentications.deps.json
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseAuthentications\bin\Debug\net8.0\VelocityBaseAuthentications.runtimeconfig.json
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseAuthentications\bin\Debug\net8.0\VelocityBaseAuthentications.dll
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseAuthentications\bin\Debug\net8.0\VelocityBaseAuthentications.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseAuthentications\obj\Debug\net8.0\VelocityBaseAuthentications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseAuthentications\obj\Debug\net8.0\VelocityBaseAuthentications.AssemblyInfoInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseAuthentications\obj\Debug\net8.0\VelocityBaseAuthentications.AssemblyInfo.cs
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseAuthentications\obj\Debug\net8.0\VelocityBaseAuthentications.csproj.CoreCompileInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseAuthentications\obj\Debug\net8.0\VelocityBaseAuthentications.sourcelink.json
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseAuthentications\obj\Debug\net8.0\VelocityBaseAuthentications.dll
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseAuthentications\obj\Debug\net8.0\refint\VelocityBaseAuthentications.dll
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseAuthentications\obj\Debug\net8.0\VelocityBaseAuthentications.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseAuthentications\obj\Debug\net8.0\VelocityBaseAuthentications.genruntimeconfig.cache
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseAuthentications\obj\Debug\net8.0\ref\VelocityBaseAuthentications.dll

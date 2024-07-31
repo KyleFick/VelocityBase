@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\djkyl\\OneDrive\\Documents\\GitHub\\VelocityBase\\VelocityBase\\VelocityBase.csproj": {}
+    "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBase\\VelocityBase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\djkyl\\OneDrive\\Documents\\GitHub\\VelocityBase\\VelocityBase\\VelocityBase.csproj": {
+    "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseAuthentications\\VelocityBaseAuthentications.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\djkyl\\OneDrive\\Documents\\GitHub\\VelocityBase\\VelocityBase\\VelocityBase.csproj",
-        "projectName": "VelocityBase",
-        "projectPath": "C:\\Users\\djkyl\\OneDrive\\Documents\\GitHub\\VelocityBase\\VelocityBase\\VelocityBase.csproj",
-        "packagesPath": "C:\\Users\\djkyl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\djkyl\\OneDrive\\Documents\\GitHub\\VelocityBase\\VelocityBase\\obj\\",
+        "projectUniqueName": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseAuthentications\\VelocityBaseAuthentications.csproj",
+        "projectName": "VelocityBaseAuthentications",
+        "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseAuthentications\\VelocityBaseAuthentications.csproj",
+        "packagesPath": "C:\\Users\\Innovative Tech2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseAuthentications\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\djkyl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Innovative Tech2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,12 +27,428 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Innovative Tech2\\Documents\\Telerik": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseBusinessLogic\\VelocityBaseBusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseBusinessLogic\\VelocityBaseBusinessLogic.csproj",
+        "projectName": "VelocityBaseBusinessLogic",
+        "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseBusinessLogic\\VelocityBaseBusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\Innovative Tech2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseBusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Innovative Tech2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Innovative Tech2\\Documents\\Telerik": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseDAL\\VelocityBaseDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseDAL\\VelocityBaseDAL.csproj",
+        "projectName": "VelocityBaseDAL",
+        "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseDAL\\VelocityBaseDAL.csproj",
+        "packagesPath": "C:\\Users\\Innovative Tech2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Innovative Tech2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Innovative Tech2\\Documents\\Telerik": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseResources\\VelocityBaseResources.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseResources\\VelocityBaseResources.csproj",
+        "projectName": "VelocityBaseResources",
+        "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseResources\\VelocityBaseResources.csproj",
+        "packagesPath": "C:\\Users\\Innovative Tech2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseResources\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Innovative Tech2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Innovative Tech2\\Documents\\Telerik": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseServices\\VelocityBaseServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseServices\\VelocityBaseServices.csproj",
+        "projectName": "VelocityBaseServices",
+        "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseServices\\VelocityBaseServices.csproj",
+        "packagesPath": "C:\\Users\\Innovative Tech2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Innovative Tech2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Innovative Tech2\\Documents\\Telerik": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseUIModels\\VelocityBaseUIModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseUIModels\\VelocityBaseUIModels.csproj",
+        "projectName": "VelocityBaseUIModels",
+        "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseUIModels\\VelocityBaseUIModels.csproj",
+        "packagesPath": "C:\\Users\\Innovative Tech2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseUIModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Innovative Tech2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Innovative Tech2\\Documents\\Telerik": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBase\\VelocityBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBase\\VelocityBase.csproj",
+        "projectName": "VelocityBase",
+        "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBase\\VelocityBase.csproj",
+        "packagesPath": "C:\\Users\\Innovative Tech2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Innovative Tech2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Innovative Tech2\\Documents\\Telerik": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseAuthentications\\VelocityBaseAuthentications.csproj": {
+                "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseAuthentications\\VelocityBaseAuthentications.csproj"
+              },
+              "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseBusinessLogic\\VelocityBaseBusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseBusinessLogic\\VelocityBaseBusinessLogic.csproj"
+              },
+              "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseDAL\\VelocityBaseDAL.csproj": {
+                "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseDAL\\VelocityBaseDAL.csproj"
+              },
+              "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseResources\\VelocityBaseResources.csproj": {
+                "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseResources\\VelocityBaseResources.csproj"
+              },
+              "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseServices\\VelocityBaseServices.csproj": {
+                "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseServices\\VelocityBaseServices.csproj"
+              },
+              "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseUIModels\\VelocityBaseUIModels.csproj": {
+                "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseUIModels\\VelocityBaseUIModels.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -68,7 +484,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

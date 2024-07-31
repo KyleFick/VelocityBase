@@ -1,0 +1,15 @@
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseBusinessLogic\bin\Debug\net8.0\VelocityBaseBusinessLogic.exe
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseBusinessLogic\bin\Debug\net8.0\VelocityBaseBusinessLogic.deps.json
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseBusinessLogic\bin\Debug\net8.0\VelocityBaseBusinessLogic.runtimeconfig.json
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseBusinessLogic\bin\Debug\net8.0\VelocityBaseBusinessLogic.dll
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseBusinessLogic\bin\Debug\net8.0\VelocityBaseBusinessLogic.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseBusinessLogic\obj\Debug\net8.0\VelocityBaseBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseBusinessLogic\obj\Debug\net8.0\VelocityBaseBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseBusinessLogic\obj\Debug\net8.0\VelocityBaseBusinessLogic.AssemblyInfo.cs
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseBusinessLogic\obj\Debug\net8.0\VelocityBaseBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseBusinessLogic\obj\Debug\net8.0\VelocityBaseBusinessLogic.sourcelink.json
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseBusinessLogic\obj\Debug\net8.0\VelocityBaseBusinessLogic.dll
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseBusinessLogic\obj\Debug\net8.0\refint\VelocityBaseBusinessLogic.dll
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseBusinessLogic\obj\Debug\net8.0\VelocityBaseBusinessLogic.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseBusinessLogic\obj\Debug\net8.0\VelocityBaseBusinessLogic.genruntimeconfig.cache
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseBusinessLogic\obj\Debug\net8.0\ref\VelocityBaseBusinessLogic.dll

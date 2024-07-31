@@ -6,4 +6,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\VelocityBaseAuthentications\VelocityBaseAuthentications.csproj" />
+    <ProjectReference Include="..\VelocityBaseBusinessLogic\VelocityBaseBusinessLogic.csproj" />
+    <ProjectReference Include="..\VelocityBaseDAL\VelocityBaseDAL.csproj" />
+    <ProjectReference Include="..\VelocityBaseResources\VelocityBaseResources.csproj" />
+    <ProjectReference Include="..\VelocityBaseServices\VelocityBaseServices.csproj" />
+    <ProjectReference Include="..\VelocityBaseUIModels\VelocityBaseUIModels.csproj" />
+  </ItemGroup>
+
 </Project>

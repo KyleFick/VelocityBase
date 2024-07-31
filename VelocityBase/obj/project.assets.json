@@ -1,30 +1,129 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "VelocityBaseAuthentications/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/VelocityBaseAuthentications.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VelocityBaseAuthentications.dll": {}
+        }
+      },
+      "VelocityBaseBusinessLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/VelocityBaseBusinessLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VelocityBaseBusinessLogic.dll": {}
+        }
+      },
+      "VelocityBaseDAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/VelocityBaseDAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VelocityBaseDAL.dll": {}
+        }
+      },
+      "VelocityBaseResources/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/VelocityBaseResources.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VelocityBaseResources.dll": {}
+        }
+      },
+      "VelocityBaseServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/VelocityBaseServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VelocityBaseServices.dll": {}
+        }
+      },
+      "VelocityBaseUIModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/VelocityBaseUIModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VelocityBaseUIModels.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "VelocityBaseAuthentications/1.0.0": {
+      "type": "project",
+      "path": "../VelocityBaseAuthentications/VelocityBaseAuthentications.csproj",
+      "msbuildProject": "../VelocityBaseAuthentications/VelocityBaseAuthentications.csproj"
+    },
+    "VelocityBaseBusinessLogic/1.0.0": {
+      "type": "project",
+      "path": "../VelocityBaseBusinessLogic/VelocityBaseBusinessLogic.csproj",
+      "msbuildProject": "../VelocityBaseBusinessLogic/VelocityBaseBusinessLogic.csproj"
+    },
+    "VelocityBaseDAL/1.0.0": {
+      "type": "project",
+      "path": "../VelocityBaseDAL/VelocityBaseDAL.csproj",
+      "msbuildProject": "../VelocityBaseDAL/VelocityBaseDAL.csproj"
+    },
+    "VelocityBaseResources/1.0.0": {
+      "type": "project",
+      "path": "../VelocityBaseResources/VelocityBaseResources.csproj",
+      "msbuildProject": "../VelocityBaseResources/VelocityBaseResources.csproj"
+    },
+    "VelocityBaseServices/1.0.0": {
+      "type": "project",
+      "path": "../VelocityBaseServices/VelocityBaseServices.csproj",
+      "msbuildProject": "../VelocityBaseServices/VelocityBaseServices.csproj"
+    },
+    "VelocityBaseUIModels/1.0.0": {
+      "type": "project",
+      "path": "../VelocityBaseUIModels/VelocityBaseUIModels.csproj",
+      "msbuildProject": "../VelocityBaseUIModels/VelocityBaseUIModels.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "VelocityBaseAuthentications >= 1.0.0",
+      "VelocityBaseBusinessLogic >= 1.0.0",
+      "VelocityBaseDAL >= 1.0.0",
+      "VelocityBaseResources >= 1.0.0",
+      "VelocityBaseServices >= 1.0.0",
+      "VelocityBaseUIModels >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\djkyl\\.nuget\\packages\\": {},
+    "C:\\Users\\Innovative Tech2\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\djkyl\\OneDrive\\Documents\\GitHub\\VelocityBase\\VelocityBase\\VelocityBase.csproj",
+      "projectUniqueName": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBase\\VelocityBase.csproj",
       "projectName": "VelocityBase",
-      "projectPath": "C:\\Users\\djkyl\\OneDrive\\Documents\\GitHub\\VelocityBase\\VelocityBase\\VelocityBase.csproj",
-      "packagesPath": "C:\\Users\\djkyl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\djkyl\\OneDrive\\Documents\\GitHub\\VelocityBase\\VelocityBase\\obj\\",
+      "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBase\\VelocityBase.csproj",
+      "packagesPath": "C:\\Users\\Innovative Tech2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\djkyl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Innovative Tech2\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -34,12 +133,32 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Users\\Innovative Tech2\\Documents\\Telerik": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseAuthentications\\VelocityBaseAuthentications.csproj": {
+              "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseAuthentications\\VelocityBaseAuthentications.csproj"
+            },
+            "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseBusinessLogic\\VelocityBaseBusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseBusinessLogic\\VelocityBaseBusinessLogic.csproj"
+            },
+            "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseDAL\\VelocityBaseDAL.csproj": {
+              "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseDAL\\VelocityBaseDAL.csproj"
+            },
+            "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseResources\\VelocityBaseResources.csproj": {
+              "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseResources\\VelocityBaseResources.csproj"
+            },
+            "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseServices\\VelocityBaseServices.csproj": {
+              "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseServices\\VelocityBaseServices.csproj"
+            },
+            "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseUIModels\\VelocityBaseUIModels.csproj": {
+              "projectPath": "C:\\Users\\Innovative Tech2\\Documents\\GitHub\\VelocityBase\\VelocityBaseUIModels\\VelocityBaseUIModels.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -75,7 +194,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
