@@ -5,6 +5,18 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VelocityBase", "VelocityBase\VelocityBase.csproj", "{C53DB0D2-F729-45F7-8A82-D8680A2C3F6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VelocityBaseUIModels", "VelocityBaseUIModels\VelocityBaseUIModels.csproj", "{D7676CB3-79E9-47DC-833C-E3B97372FB02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VelocityBaseAuthentications", "VelocityBaseAuthentications\VelocityBaseAuthentications.csproj", "{05A1B14C-9011-40D1-9970-23364842AECD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VelocityBaseDAL", "VelocityBaseDAL\VelocityBaseDAL.csproj", "{92ECFA27-6E84-4A8D-9F63-652DBD628E47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VelocityBaseResources", "VelocityBaseResources\VelocityBaseResources.csproj", "{2864AC29-99FB-4836-A1E4-85BE390B8C3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VelocityBaseServices", "VelocityBaseServices\VelocityBaseServices.csproj", "{F981C950-B980-4E8D-8B81-79DB2CA5C69C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VelocityBaseBusinessLogic", "VelocityBaseBusinessLogic\VelocityBaseBusinessLogic.csproj", "{16372703-0238-492F-8057-10BA791D2840}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +27,30 @@ Global
 		{C53DB0D2-F729-45F7-8A82-D8680A2C3F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C53DB0D2-F729-45F7-8A82-D8680A2C3F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C53DB0D2-F729-45F7-8A82-D8680A2C3F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7676CB3-79E9-47DC-833C-E3B97372FB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7676CB3-79E9-47DC-833C-E3B97372FB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7676CB3-79E9-47DC-833C-E3B97372FB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7676CB3-79E9-47DC-833C-E3B97372FB02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A1B14C-9011-40D1-9970-23364842AECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A1B14C-9011-40D1-9970-23364842AECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A1B14C-9011-40D1-9970-23364842AECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A1B14C-9011-40D1-9970-23364842AECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92ECFA27-6E84-4A8D-9F63-652DBD628E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92ECFA27-6E84-4A8D-9F63-652DBD628E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92ECFA27-6E84-4A8D-9F63-652DBD628E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92ECFA27-6E84-4A8D-9F63-652DBD628E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2864AC29-99FB-4836-A1E4-85BE390B8C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2864AC29-99FB-4836-A1E4-85BE390B8C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2864AC29-99FB-4836-A1E4-85BE390B8C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2864AC29-99FB-4836-A1E4-85BE390B8C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F981C950-B980-4E8D-8B81-79DB2CA5C69C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F981C950-B980-4E8D-8B81-79DB2CA5C69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F981C950-B980-4E8D-8B81-79DB2CA5C69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F981C950-B980-4E8D-8B81-79DB2CA5C69C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16372703-0238-492F-8057-10BA791D2840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16372703-0238-492F-8057-10BA791D2840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16372703-0238-492F-8057-10BA791D2840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16372703-0238-492F-8057-10BA791D2840}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseResources\bin\Debug\net8.0\VelocityBaseResources.exe
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseResources\bin\Debug\net8.0\VelocityBaseResources.deps.json
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseResources\bin\Debug\net8.0\VelocityBaseResources.runtimeconfig.json
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseResources\bin\Debug\net8.0\VelocityBaseResources.dll
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseResources\bin\Debug\net8.0\VelocityBaseResources.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseResources\obj\Debug\net8.0\VelocityBaseResources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseResources\obj\Debug\net8.0\VelocityBaseResources.AssemblyInfoInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseResources\obj\Debug\net8.0\VelocityBaseResources.AssemblyInfo.cs
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseResources\obj\Debug\net8.0\VelocityBaseResources.csproj.CoreCompileInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseResources\obj\Debug\net8.0\VelocityBaseResources.sourcelink.json
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseResources\obj\Debug\net8.0\VelocityBaseResources.dll
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseResources\obj\Debug\net8.0\refint\VelocityBaseResources.dll
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseResources\obj\Debug\net8.0\VelocityBaseResources.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseResources\obj\Debug\net8.0\VelocityBaseResources.genruntimeconfig.cache
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseResources\obj\Debug\net8.0\ref\VelocityBaseResources.dll

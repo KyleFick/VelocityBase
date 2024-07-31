@@ -7,14 +7,82 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "VelocityBase/1.0.0": {
+        "dependencies": {
+          "VelocityBaseAuthentications": "1.0.0",
+          "VelocityBaseBusinessLogic": "1.0.0",
+          "VelocityBaseDAL": "1.0.0",
+          "VelocityBaseResources": "1.0.0",
+          "VelocityBaseServices": "1.0.0",
+          "VelocityBaseUIModels": "1.0.0"
+        },
         "runtime": {
           "VelocityBase.dll": {}
+        }
+      },
+      "VelocityBaseAuthentications/1.0.0": {
+        "runtime": {
+          "VelocityBaseAuthentications.dll": {}
+        }
+      },
+      "VelocityBaseBusinessLogic/1.0.0": {
+        "runtime": {
+          "VelocityBaseBusinessLogic.dll": {}
+        }
+      },
+      "VelocityBaseDAL/1.0.0": {
+        "runtime": {
+          "VelocityBaseDAL.dll": {}
+        }
+      },
+      "VelocityBaseResources/1.0.0": {
+        "runtime": {
+          "VelocityBaseResources.dll": {}
+        }
+      },
+      "VelocityBaseServices/1.0.0": {
+        "runtime": {
+          "VelocityBaseServices.dll": {}
+        }
+      },
+      "VelocityBaseUIModels/1.0.0": {
+        "runtime": {
+          "VelocityBaseUIModels.dll": {}
         }
       }
     }
   },
   "libraries": {
     "VelocityBase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VelocityBaseAuthentications/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VelocityBaseBusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VelocityBaseDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VelocityBaseResources/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VelocityBaseServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VelocityBaseUIModels/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

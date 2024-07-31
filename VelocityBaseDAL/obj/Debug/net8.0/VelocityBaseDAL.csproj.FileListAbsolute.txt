@@ -1,0 +1,15 @@
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseDAL\bin\Debug\net8.0\VelocityBaseDAL.exe
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseDAL\bin\Debug\net8.0\VelocityBaseDAL.deps.json
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseDAL\bin\Debug\net8.0\VelocityBaseDAL.runtimeconfig.json
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseDAL\bin\Debug\net8.0\VelocityBaseDAL.dll
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseDAL\bin\Debug\net8.0\VelocityBaseDAL.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseDAL\obj\Debug\net8.0\VelocityBaseDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseDAL\obj\Debug\net8.0\VelocityBaseDAL.AssemblyInfoInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseDAL\obj\Debug\net8.0\VelocityBaseDAL.AssemblyInfo.cs
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseDAL\obj\Debug\net8.0\VelocityBaseDAL.csproj.CoreCompileInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseDAL\obj\Debug\net8.0\VelocityBaseDAL.sourcelink.json
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseDAL\obj\Debug\net8.0\VelocityBaseDAL.dll
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseDAL\obj\Debug\net8.0\refint\VelocityBaseDAL.dll
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseDAL\obj\Debug\net8.0\VelocityBaseDAL.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseDAL\obj\Debug\net8.0\VelocityBaseDAL.genruntimeconfig.cache
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseDAL\obj\Debug\net8.0\ref\VelocityBaseDAL.dll

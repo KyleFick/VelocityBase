@@ -1,0 +1,15 @@
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseUIModels\bin\Debug\net8.0\VelocityBaseUIModels.exe
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseUIModels\bin\Debug\net8.0\VelocityBaseUIModels.deps.json
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseUIModels\bin\Debug\net8.0\VelocityBaseUIModels.runtimeconfig.json
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseUIModels\bin\Debug\net8.0\VelocityBaseUIModels.dll
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseUIModels\bin\Debug\net8.0\VelocityBaseUIModels.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseUIModels\obj\Debug\net8.0\VelocityBaseUIModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseUIModels\obj\Debug\net8.0\VelocityBaseUIModels.AssemblyInfoInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseUIModels\obj\Debug\net8.0\VelocityBaseUIModels.AssemblyInfo.cs
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseUIModels\obj\Debug\net8.0\VelocityBaseUIModels.csproj.CoreCompileInputs.cache
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseUIModels\obj\Debug\net8.0\VelocityBaseUIModels.sourcelink.json
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseUIModels\obj\Debug\net8.0\VelocityBaseUIModels.dll
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseUIModels\obj\Debug\net8.0\refint\VelocityBaseUIModels.dll
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseUIModels\obj\Debug\net8.0\VelocityBaseUIModels.pdb
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseUIModels\obj\Debug\net8.0\VelocityBaseUIModels.genruntimeconfig.cache
+C:\Users\Innovative Tech2\Documents\GitHub\VelocityBase\VelocityBaseUIModels\obj\Debug\net8.0\ref\VelocityBaseUIModels.dll
